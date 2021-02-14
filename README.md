@@ -6,6 +6,4 @@ This is a simple README file
 
 this is bound to cause trouble
 
-
-
-I hope this isn't much of an issue
+Just a simple test to see if there is a conflict
